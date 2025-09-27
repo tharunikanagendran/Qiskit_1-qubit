@@ -1,5 +1,6 @@
 
-# Hello Qiskit
+# Qiskit 1-qubit
+
 
 This repository contains a **simple quantum program** using Qiskit to introduce students to **quantum circuits, gates, and measurement**.
 
@@ -27,11 +28,11 @@ This repository contains a **simple quantum program** using Qiskit to introduce 
 1. **Fork this repository** on GitHub.  
 2. **Clone** your forked repository:
    ```bash
-   git clone <your-forked-repo-url>
+   git clone hhttps://github.com/arunpandianj/Qiskit_1-qubit
    ```
 3. Navigate to the directory:
    ```bash
-   cd hello-qiskit
+   cd Qiskit_1-qubit
    ```
 4. **Install Qiskit** (if not already installed):
    ```bash
@@ -39,7 +40,7 @@ This repository contains a **simple quantum program** using Qiskit to introduce 
    ```
 5. **Run the program**:
    ```bash
-   python hello_qiskit.py
+   python 1-qubit.py
    ```
 6. Complete the **tasks** in your forked repo and **push changes** back.  
 
